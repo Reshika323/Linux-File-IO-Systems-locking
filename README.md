@@ -70,11 +70,6 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 }
 ```
-## Output:
-
-
-![WhatsApp Image 2025-11-06 at 14 14 19_29fe7e84](https://github.com/user-attachments/assets/7f3e9c12-5e74-41e6-a50b-ef6c62c01200)
-
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -150,6 +145,8 @@ int main(int argc, char *argv[]) {
 
 
 ![WhatsApp Image 2025-11-06 at 14 14 30_b10cc3bb](https://github.com/user-attachments/assets/4f1baf74-1203-4f5d-861c-8574685baff2)
+![WhatsApp Image 2025-11-06 at 14 14 19_29fe7e84](https://github.com/user-attachments/assets/7f3e9c12-5e74-41e6-a50b-ef6c62c01200)
+
 
 
 
